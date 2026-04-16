@@ -1,0 +1,53 @@
+209454	SISTER Gasal 2023/2024	Weekly Reflection #1 (Due: 3 Sep 2023 23:59)	sister-gasal-20232024\week1
+561962	SISTER Gasal 2023/2024	Weekly Reflection #2 | Due: 09/09/2023 23:59	sister-gasal-20232024\week2
+450172	SISTER Gasal 2023/2024	Weekly Reflection #3 | Due: 16/09/2023 23:59	sister-gasal-20232024\week3
+697629	SISTER Gasal 2023/2024	Weekly Reflection #4 dan #5 (Due: 30 Sept 2023 23:59 WIB)	sister-gasal-20232024\week4
+573404	SISTER Gasal 2024/2025	Weekly Reflection #1 (Deadline: Minggu, 1 September 2024 23:59)	sister-gasal-20242025\week1
+739759	SISTER Gasal 2024/2025	Weekly Reflection #10 (Deadline: Minggu, 17 November 2024)	sister-gasal-20242025\week10
+282498	SISTER Gasal 2024/2025	Weekly Reflection #11 (Deadline: Minggu, 24 November 2024)	sister-gasal-20242025\week11
+671811	SISTER Gasal 2024/2025	Weekly Reflection #3 (Deadline: Selasa, 17 Sep 2024)	sister-gasal-20242025\week3
+211922	SISTER Gasal 2024/2025	Weekly Reflection #4 (Due: Minggu, 22 September 2024 23:59 WIB)	sister-gasal-20242025\week4
+348018	SISTER Gasal 2024/2025	Weekly Reflection #6 (Deadline: Minggu, 6 Oktober 2024)	sister-gasal-20242025\week6
+425043	SISTER Gasal 2024/2025	Weekly Reflection #8 (Deadline: Minggu, 3 November 2024)	sister-gasal-20242025\week8
+928759	SISTER Genap 2025/2026 / A / Forum Diskusi	[Kelas A] Apa itu Cognition? Apa hubungannya dengan HCI?	sister-genap-20252026\A\FD\week2
+705256	SISTER Genap 2025/2026 / A / Forum Diskusi	[Kelas A] Pertanyaan Pemicu: Pengalaman Berkesan saat Berinteraksi Daring	sister-genap-20252026\A\FD\week3
+319039	SISTER Genap 2025/2026 / A / Forum Diskusi	[Kelas A] Pertanyaan Pemicu: Contoh Antarmuka Metaverse	sister-genap-20252026\A\FD\week4
+146009	SISTER Genap 2025/2026 / A / Forum Diskusi	[Kelas A] Prompt: Metode User Research	sister-genap-20252026\A\FD\week5
+740143	SISTER Genap 2025/2026 / A / Weekly Reflection	[KELAS A] Weekly Reflection Minggu 1	sister-genap-20252026\A\WR\week1
+843381	SISTER Genap 2025/2026 / A / Weekly Reflection	[Kelas A] Weekly Reflection Minggu 3	sister-genap-20252026\A\WR\week3
+812162	SISTER Genap 2025/2026 / A / Weekly Reflection	[Kelas A] Weekly Reflection Minggu 4	sister-genap-20252026\A\WR\week4
+148004	SISTER Genap 2025/2026 / A / Weekly Reflection	[KELAS A] Weekly Reflection Minggu 5	sister-genap-20252026\A\WR\week5
+768934	SISTER Genap 2025/2026 / B / Forum Diskusi	[Kelas B] Apa itu Cognition? Apa hubungannya dengan HCI?	sister-genap-20252026\B\FD\week2
+678361	SISTER Genap 2025/2026 / B / Forum Diskusi	[Kelas B] Pertanyaan Pemicu: Contoh aplikasi untuk berinteraksi sosial dengan sesama	sister-genap-20252026\B\FD\week3
+764459	SISTER Genap 2025/2026 / B / Forum Diskusi	[Kelas B] Pertanyaan Pemicu: Berbagi Contoh Antarmuka (Interfaces)	sister-genap-20252026\B\FD\week4
+794327	SISTER Genap 2025/2026 / B / Forum Diskusi	[Kelas B] Metode Mengenal Pengguna Aplikasi	sister-genap-20252026\B\FD\week5
+436868	SISTER Genap 2025/2026 / B / Weekly Reflection	[KELAS B] Weekly Reflection Minggu 1	sister-genap-20252026\B\WR\week1
+202772	SISTER Genap 2025/2026 / B / Weekly Reflection	[Kelas B] Weekly Reflection Minggu 2	sister-genap-20252026\B\WR\week2
+613602	SISTER Genap 2025/2026 / B / Weekly Reflection	[Kelas B] Weekly Reflection Minggu 3	sister-genap-20252026\B\WR\week3
+375933	SISTER Genap 2025/2026 / B / Weekly Reflection	[Kelas B] Weekly Reflection Minggu 4	sister-genap-20252026\B\WR\week4
+572924	SISTER Genap 2025/2026 / B / Weekly Reflection	[Kelas B] Weekly Reflection Minggu 5	sister-genap-20252026\B\WR\week5
+682644	SISTER Genap 2025/2026 / C / Forum Diskusi	Kelas C - Diskusi Interaktif Terkait Prinsip Prinsip Kognitif	sister-genap-20252026\C\FD\week2
+876086	SISTER Genap 2025/2026 / C / Forum Diskusi	[Kelas D] Aplikasi untuk Berinteraksi Sosial	sister-genap-20252026\C\FD\week3
+730116	SISTER Genap 2025/2026 / C / Weekly Reflection	[Kelas C] Weekly Reflection Minggu 2	sister-genap-20252026\C\WR\week2
+793476	SISTER Genap 2025/2026 / C / Weekly Reflection	[Kelas C] Weekly Reflection Minggu 3	sister-genap-20252026\C\WR\week3
+850160	SISTER Genap 2025/2026 / C / Weekly Reflection	[Kelas C] Weekly Reflection Minggu 4	sister-genap-20252026\C\WR\week4
+578295	SISTER Genap 2025/2026 / C / Weekly Reflection	[KELAS C] Weekly Reflection Minggu 5	sister-genap-20252026\C\WR\week5
+553318	SISTER Genap 2025/2026 / D / Forum Diskusi	Kelas D - Kaitan Kognisi dengan Interaction Design dan Mental Model	sister-genap-20252026\D\FD\week2
+220567	SISTER Genap 2025/2026 / D / Weekly Reflection	[Kelas D] Weekly Reflection Minggu 1	sister-genap-20252026\D\WR\week1
+565286	SISTER Genap 2025/2026 / D / Weekly Reflection	[Kelas D] Weekly Reflection Minggu 2	sister-genap-20252026\D\WR\week2
+295644	SISTER Genap 2025/2026 / D / Weekly Reflection	[Kelas D] Weekly Reflection Minggu 3	sister-genap-20252026\D\WR\week3
+227177	SISTER Genap 2025/2026 / D / Weekly Reflection	[Kelas D] Weekly Reflection Minggu 4	sister-genap-20252026\D\WR\week4
+787969	SISTER Genap 2025/2026 / D / Weekly Reflection	[Kelas D] Weekly Reflection Minggu 5	sister-genap-20252026\D\WR\week5
+910411	SISTER Genap 2025/2026 / E / Forum Diskusi	Kelas E - Diskusi Interaktif Terkait Prinsip Prinsip Kognitif	sister-genap-20252026\E\FD\week2
+951397	SISTER Genap 2025/2026 / E / Weekly Reflection	[KELAS E] Weekly Reflection Minggu 1	sister-genap-20252026\E\WR\week1
+972672	SISTER Genap 2025/2026 / E / Weekly Reflection	[Kelas E] Weekly Reflection Minggu 2	sister-genap-20252026\E\WR\week2
+787978	SISTER Genap 2025/2026 / E / Weekly Reflection	[Kelas E] Weekly Reflection Minggu 3	sister-genap-20252026\E\WR\week3
+647858	SISTER Genap 2025/2026 / E / Weekly Reflection	[Kelas E] Weekly Reflection Minggu 4	sister-genap-20252026\E\WR\week4
+631107	SISTER Genap 2025/2026 / E / Weekly Reflection	[Kelas E] Weekly Reflection Minggu 5	sister-genap-20252026\E\WR\week5
+904461	SISTER Genap 2025/2026 / F / Forum Diskusi	Kelas F - Kaitan Kognisi dengan Interaction Design dan Mental Model	sister-genap-20252026\F\FD\week2
+326751	SISTER Genap 2025/2026 / F / Forum Diskusi	[Kelas F] Aplikasi untuk Berinteraksi Sosial	sister-genap-20252026\F\FD\week3
+901358	SISTER Genap 2025/2026 / F / Weekly Reflection	[Kelas F] Weekly Reflection Minggu 1	sister-genap-20252026\F\WR\week1
+941257	SISTER Genap 2025/2026 / F / Weekly Reflection	[Kelas F] Weekly Reflection Minggu 2	sister-genap-20252026\F\WR\week2
+449807	SISTER Genap 2025/2026 / F / Weekly Reflection	[Kelas F] Weekly Reflection Minggu 3	sister-genap-20252026\F\WR\week3
+550052	SISTER Genap 2025/2026 / F / Weekly Reflection	[Kelas F] Weekly Reflection Minggu 4	sister-genap-20252026\F\WR\week4
+727392	SISTER Genap 2025/2026 / F / Weekly Reflection	[Kelas F] Weekly Reflection Minggu 5	sister-genap-20252026\F\WR\week5
