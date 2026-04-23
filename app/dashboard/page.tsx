@@ -33,9 +33,22 @@ export default async function DashboardPage() {
 
   return (
     <div>
-      <div className="mb-8">
-        <h1 className="text-2xl font-bold text-slate-900">Annotation Overview</h1>
-        <p className="text-slate-500 mt-1">Click any forum to read submitted annotations</p>
+      <div className="mb-8 flex items-start justify-between gap-4">
+        <div>
+          <h1 className="text-2xl font-bold text-slate-900">Annotation Overview</h1>
+          <p className="text-slate-500 mt-1">Click any forum to read submitted annotations</p>
+        </div>
+        <a
+          href="/api/download"
+          download="summaries.json"
+          className="shrink-0 inline-flex items-center gap-2 rounded-xl bg-indigo-600 px-4 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 transition-colors"
+        >
+          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
+              d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+          </svg>
+          Download summaries.json
+        </a>
       </div>
 
       {/* Stats */}
